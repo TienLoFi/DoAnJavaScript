@@ -1,0 +1,13 @@
+{
+    "data":[
+        {"name":"Trang Chủ","link":
+    "/"},
+    {"name":"Sản Phẩm","link":
+    "/san-pham"},
+    {"name":"Liên hệ","link":
+    "/lien-he"},
+    {"name":"Giới thiệu","link":
+    "/gioi-thieu"}
+    ]
+    
+    }
